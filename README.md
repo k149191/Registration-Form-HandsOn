@@ -13,8 +13,9 @@ Aplikasi Registrasi Mahasiswa dan Mahasiswi merupakan aplikasi berbasis web yang
 ### 1. Form pendaftaran mahasiswa
 
 <p align="center">
-<img width="675" height="1009" alt="image" src="https://github.com/user-attachments/assets/55c2d5ad-d0d8-4b6a-af92-0d7f369ff4e4" />
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/55c2d5ad-d0d8-4b6a-af92-0d7f369ff4e4" />
 </p>
+Fitur form pendaftaran mahasiswa digunakan untuk memasukkan data diri mahasiswa yang akan didaftarkan ke dalam sistem. Pada form ini pengguna diminta mengisi beberapa informasi seperti nama lengkap, email, password, jenis kelamin, program studi, dan tanggal lahir. Form ini menjadi langkah awal agar data mahasiswa dapat tersimpan dalam aplikasi.
 
 ### 2. Validasi input data
 
