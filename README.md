@@ -12,15 +12,32 @@ Aplikasi Registrasi Mahasiswa dan Mahasiswi merupakan aplikasi berbasis web yang
 ## Fitur & Tampilan Aplikasi
 ### 1. Form pendaftaran mahasiswa
 
-<img text-align=center width="675" height="1009" alt="image" src="https://github.com/user-attachments/assets/55c2d5ad-d0d8-4b6a-af92-0d7f369ff4e4" />
-
+<p align="center">
+<img width="675" height="1009" alt="image" src="https://github.com/user-attachments/assets/55c2d5ad-d0d8-4b6a-af92-0d7f369ff4e4" />
+</p>
 
 ### 2. Validasi input data
 
+<p align="center">
+
+</p>
+
 ### 3. Menampilkan daftar peserta
+
+<p align="center">
+</p>
 
 ### 4. Menampilkan detail data peserta
 
+<p align="center">
+</p>
+
 ### 5. Menghapus data peserta
 
+<p align="center">
+</p>
+
 ### 6. Reset form pendaftaran
+
+<p align="center">
+</p>
